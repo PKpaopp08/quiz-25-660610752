@@ -1,5 +1,4 @@
 "use client";
-import PostOwnner from "PostOwnner";
 export default function Home() {
   return (
     <div
