@@ -1,5 +1,6 @@
 "use client";
 
+
 export default function Home() {
   return (
     <div
@@ -22,7 +23,7 @@ export default function Home() {
               style={{ objectFit: "cover" }}
             />
             <span className="fw-semibold fs-5 text-white">
-              Chayanin Suatap 650610560
+              natthachai 660610752
             </span>
           </div>
 
